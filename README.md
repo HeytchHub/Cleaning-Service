@@ -1,7 +1,7 @@
 # Cleaning-Service
-Personal automation using Python that clears desktop items and recycle bin items for whenever feeling extremely lazy.
+A personal project diving into Python Development while also semi automating most of my frequent actions.
 
-Requires pypiwin32 and winshell modules for some functions.
+Requires pypiwin32 and winshell modules for some of the functions.
 
 ```
 pip install winshell
